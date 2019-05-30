@@ -1,2 +1,2 @@
 # samTheMan
-This is the hubot for content sharing 
+This is the Ops'bot for content sharing 
